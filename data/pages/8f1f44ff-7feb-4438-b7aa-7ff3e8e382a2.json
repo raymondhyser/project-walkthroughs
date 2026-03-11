@@ -13,7 +13,6 @@
       "uuid": "f37b4dec-cbb9-4d79-8cda-9308aa5cc376",
       "includes": [
         "media",
-        "annotations",
         "description"
       ],
       "children": [
@@ -35,7 +34,7 @@
   "created_by": "raymondhyser",
   "title": "Vieques and St. Croix by Darinelle Merced-Calderon ",
   "slug": "vieques-and-st-croix-by-darinelle-merced-cal",
-  "updated_at": "2026-03-11T03:34:51.219Z",
+  "updated_at": "2026-03-11T03:35:02.528Z",
   "updated_by": "raymondhyser",
   "autogenerate": {
     "enabled": false,
