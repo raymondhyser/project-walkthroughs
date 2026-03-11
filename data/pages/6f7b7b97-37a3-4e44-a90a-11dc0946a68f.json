@@ -4,6 +4,26 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "This project by Jack DeVry Riordan explores the theory and topic of Auteurism and some of the filmmakers who best represent it, including filmmakers Stanley Kubrick, Wes Anderson, Tomás Gutiérrez Alea, Andrei Tarkovsky, Akira Kurosawa, and more. See the full project here: "
+        },
+        {
+          "type": "link",
+          "url": "https://jackdevry.github.io/Auteurism/",
+          "children": [
+            {
+              "text": "https://jackdevry.github.io/Auteurism/"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -33,7 +53,7 @@
   "created_by": "raymondhyser",
   "title": "Auteurism by Jack Riordan",
   "slug": "auteurism-by-jack-riordan",
-  "updated_at": "2026-03-11T03:34:42.030Z",
+  "updated_at": "2026-03-11T03:43:30.950Z",
   "updated_by": "raymondhyser",
   "autogenerate": {
     "enabled": false,
