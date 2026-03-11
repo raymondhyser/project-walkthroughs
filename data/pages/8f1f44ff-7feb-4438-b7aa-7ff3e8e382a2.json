@@ -4,6 +4,38 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "This project by Darinelle Merced-Calderon examines how communities in Vieques and St. Croix express solidarity and resistance through music, protest, and performance, tracing the intertwined legacies of colonialism and cultural connection across U.S. territories. See the full project here:  "
+        },
+        {
+          "type": "link",
+          "url": "https://darinellemc.github.io/PerformViequesStCroix/",
+          "children": [
+            {
+              "text": "https://darinellemc.github.io/PerformViequesStCroix/"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://darinellemc.github.io/PerformViequesStCroix/",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
           "text": ""
         }
       ]
@@ -12,8 +44,7 @@
       "type": "event",
       "uuid": "f37b4dec-cbb9-4d79-8cda-9308aa5cc376",
       "includes": [
-        "media",
-        "description"
+        "media"
       ],
       "children": [
         {
@@ -34,7 +65,7 @@
   "created_by": "raymondhyser",
   "title": "Vieques and St. Croix by Darinelle Merced-Calderon ",
   "slug": "vieques-and-st-croix-by-darinelle-merced-cal",
-  "updated_at": "2026-03-11T03:35:02.528Z",
+  "updated_at": "2026-03-11T03:44:10.664Z",
   "updated_by": "raymondhyser",
   "autogenerate": {
     "enabled": false,
