@@ -3,7 +3,7 @@
     "73356c84-2a78-444f-9b83-1a5ae39f7143": {
       "label": "Vieques and St. Croix",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://ia800903.us.archive.org/16/items/darinelle-avannotate-walk-through-2026/Darinelle%20AVAnnotate%20Walk%20Through_2026.ia.mp4",
       "duration": 273,
       "caption_set": [],
@@ -40,6 +40,6 @@
   ],
   "created_at": "2026-03-11T03:27:38.102Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-03-11T03:27:38.102Z",
+  "updated_at": "2026-03-11T03:31:13.373Z",
   "updated_by": "raymondhyser"
 }
