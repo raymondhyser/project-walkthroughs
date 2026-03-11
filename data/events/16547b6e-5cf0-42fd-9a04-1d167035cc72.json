@@ -3,7 +3,7 @@
     "4e7e868a-7deb-46c3-8586-c2970d4f6cf4": {
       "label": "Auteurism",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://ia800903.us.archive.org/16/items/darinelle-avannotate-walk-through-2026/Auteurism%20Case-Study%20Video.mp4",
       "duration": 362,
       "caption_set": [],
@@ -40,6 +40,6 @@
   ],
   "created_at": "2026-03-11T03:24:54.160Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-03-11T03:24:54.160Z",
+  "updated_at": "2026-03-11T03:31:03.661Z",
   "updated_by": "raymondhyser"
 }
