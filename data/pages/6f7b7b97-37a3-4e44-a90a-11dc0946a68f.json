@@ -12,9 +12,7 @@
       "type": "event",
       "uuid": "16547b6e-5cf0-42fd-9a04-1d167035cc72",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
       "children": [
         {
@@ -35,7 +33,7 @@
   "created_by": "raymondhyser",
   "title": "Auteurism by Jack Riordan",
   "slug": "auteurism-by-jack-riordan",
-  "updated_at": "2026-03-11T03:34:22.350Z",
+  "updated_at": "2026-03-11T03:34:42.030Z",
   "updated_by": "raymondhyser",
   "autogenerate": {
     "enabled": false,
