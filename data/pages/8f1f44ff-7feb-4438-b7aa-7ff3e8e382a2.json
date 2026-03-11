@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "f37b4dec-cbb9-4d79-8cda-9308aa5cc376",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-03-11T03:27:38.278Z",
   "created_by": "raymondhyser",
   "title": "Vieques and St. Croix by Darinelle Merced-Calderon ",
   "slug": "vieques-and-st-croix-by-darinelle-merced-cal",
-  "updated_at": "2026-03-11T03:27:38.278Z",
+  "updated_at": "2026-03-11T03:34:51.219Z",
   "updated_by": "raymondhyser",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "f37b4dec-cbb9-4d79-8cda-9308aa5cc376"
   }
