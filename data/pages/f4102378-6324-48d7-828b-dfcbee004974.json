@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "This project by Eduardo Gorobets brings digital humanities into language classrooms by creating interactive Spanish and Portuguese lessons that connect linguistic learning with Indigenous histories and cultures across Latin America. See the full project here: https://egorobets.github.io/escutandopovosindigenas/. Check out his Canvas modules using this link: https://lor.instructure.com/resources/8f9522868b4b47929839ed98f36aef55?shared."
         }
       ]
     },
@@ -12,9 +12,7 @@
       "type": "event",
       "uuid": "d55b6a77-ff88-4904-b198-dd5cde8dc963",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
       "children": [
         {
@@ -35,7 +33,7 @@
   "created_by": "raymondhyser",
   "title": "Escutando sobre povos indígenas em português (Listening to Indigenous Peoples in Portuguese) by Eduardo Gorobets",
   "slug": "escutando-sobre-povos-indigenas-em-portugues",
-  "updated_at": "2026-03-24T15:20:07.947Z",
+  "updated_at": "2026-03-24T15:22:08.731Z",
   "updated_by": "raymondhyser",
   "autogenerate": {
     "enabled": false,
