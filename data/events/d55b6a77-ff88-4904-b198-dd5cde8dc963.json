@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "b5e79629-4913-40a7-b962-7c092f8fd1cf": {
+      "label": "Escutando sobre povos indígenas em português",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://ia601003.us.archive.org/29/items/eduardo-gorobets-escutando-sobre-povos-indigenas-em-portugues/Eduardo%20Gorobets%20-%20Escutando%20Sobre%20Povos%20Indigenas%20em%20Portugues.mp4",
+      "duration": 242,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This project by Eduardo Gorobets brings digital humanities into language classrooms by creating interactive Spanish and Portuguese lessons that connect linguistic learning with Indigenous histories and cultures across Latin America. Check out his Canvas modules using this link: https://lor.instructure.com/resources/8f9522868b4b47929839ed98f36aef55?shared."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Escutando sobre povos indígenas em português (Listening to Indigenous Peoples in Portuguese) by Eduardo Gorobets",
+  "av_file_order": [
+    "b5e79629-4913-40a7-b962-7c092f8fd1cf"
+  ],
+  "created_at": "2026-03-24T15:19:12.653Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-03-24T15:19:12.653Z",
+  "updated_by": "raymondhyser"
+}
