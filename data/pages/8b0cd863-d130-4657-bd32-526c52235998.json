@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "dadb4aa9-37c2-4ee4-a725-6ef504d47c64",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-02T19:34:58.121Z",
   "created_by": "raymondhyser",
   "title": "Memory, Education, and Discrimination by Kara Culp",
   "slug": "memory-education-and-discrimination-by-kara",
-  "updated_at": "2026-04-02T19:34:58.121Z",
+  "updated_at": "2026-04-02T19:36:22.263Z",
   "updated_by": "raymondhyser",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "dadb4aa9-37c2-4ee4-a725-6ef504d47c64"
   }
