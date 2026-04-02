@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "This project by Kara Culp explores the experiences of Latino immigrants and Mexican Americans in Texas public schools after the 1960s, examining how federal, state, and local education policies shaped bilingual education and the experiences of Spanish-speaking students through annotated oral histories and archival materials. "
         }
       ]
     },
@@ -12,9 +12,7 @@
       "type": "event",
       "uuid": "dadb4aa9-37c2-4ee4-a725-6ef504d47c64",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
       "children": [
         {
@@ -35,7 +33,7 @@
   "created_by": "raymondhyser",
   "title": "Memory, Education, and Discrimination by Kara Culp",
   "slug": "memory-education-and-discrimination-by-kara",
-  "updated_at": "2026-04-02T19:36:22.263Z",
+  "updated_at": "2026-04-02T19:37:12.012Z",
   "updated_by": "raymondhyser",
   "autogenerate": {
     "enabled": false,
