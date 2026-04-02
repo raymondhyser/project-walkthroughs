@@ -4,7 +4,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This project by Kara Culp explores the experiences of Latino immigrants and Mexican Americans in Texas public schools after the 1960s, examining how federal, state, and local education policies shaped bilingual education and the experiences of Spanish-speaking students through annotated oral histories and archival materials. "
+          "text": "This project by Kara Culp explores the experiences of Latino immigrants and Mexican Americans in Texas public schools after the 1960s, examining how federal, state, and local education policies shaped bilingual education and the experiences of Spanish-speaking students through annotated oral histories and archival materials. See the full project here: "
+        },
+        {
+          "text": "https://karaculp.github.io/Memory-Education-and-Discrimination/",
+          "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/"
         }
       ]
     },
@@ -33,7 +37,7 @@
   "created_by": "raymondhyser",
   "title": "Memory, Education, and Discrimination by Kara Culp",
   "slug": "memory-education-and-discrimination-by-kara",
-  "updated_at": "2026-04-02T19:37:12.012Z",
+  "updated_at": "2026-04-02T19:37:53.974Z",
   "updated_by": "raymondhyser",
   "autogenerate": {
     "enabled": false,
