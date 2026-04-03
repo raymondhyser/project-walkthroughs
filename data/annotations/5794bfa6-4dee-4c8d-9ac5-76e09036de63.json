@@ -1,5 +1,198 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi, my name is Darinane Merced Calderon, and I am a PhD student in the Department of Spanish and Portuguese at the University of Texas at Austin. My research investigates the multiple intersections between performance and coloniality in the Caribbean, with a particular focus on Puerto Rico and the diaspora. In this video, I will introduce my AV Annotate project to highlight the ways this digital tool can be used for time-coded annotations on audiovisual media, and for presenting research through scholarly writing and curated media."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a3e5d943-99de-4d51-baee-2ad3eecaea5d"
+    },
+    {
+      "start_time": 31,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My AV Annotate project focuses on the island municipality of Vieja, Puerto Rico, and the neighboring U.S. Virgin Island of St. Croix. The goal of this project is to explore three case studies that showcase solidarity via performance between Viejenses and Crucians. Consciously or not, the performances in this project, ranging from protest to music to collective celebrations, disrupt the coloniality and colonialism that oftentimes divides colonial subjects within an empire."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "83b32581-3e54-4363-8676-d912fdce49e3"
+    },
+    {
+      "start_time": 59,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performance in this project describes acts of transmission that convey knowledge, affect, and solidarity between Crucians and Viejenses. These performances show how people relate to each other in the periphery of empire. I do not aim to romanticize the struggles of Crucians and Viejenses, there are real material conditions that impact these communities."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "76eb46fc-1a1e-44b6-ab89-7640c08dd60a"
+    },
+    {
+      "start_time": 80,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yet within this fraught context, I look to performance to highlight the acts of care via embodied solidarity that disrupt coloniality and colonialism. Before diving into the three case studies, the landing page of my project provides a brief introduction to both islands, including maps and historical context. In the performance studies tab, I also provide a brief overview of performance studies."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ec458b12-9098-4064-b491-5b2aa3d4738c"
+    },
+    {
+      "start_time": 104,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the subsequent pages, I turn to my project's three broad case studies. These cases include the Anti-Navy Movement in Vieques, Calypso and Carnival, and the U.S. Virgin Islands and Puerto Rico Friendship Day. The Anti-Navy portion begins with an introduction to the presence of the U.S. Navy in Vieques."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c571bce9-3b37-40b3-9fd2-c9604a86a3fa"
+    },
+    {
+      "start_time": 124,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, in its sub-tab, I dive into one particular protest where Crucians and Viejenses both participated. I use a combination of images, videos, and scholarly writing to explore this protest. On Calypso and Carnival, I similarly provide a brief introduction to the history of Calypso and Carnival in the Caribbean."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4b0a1659-3d35-45d1-aba5-e04f374513f3"
+    },
+    {
+      "start_time": 148,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, I focus on one short film where the connections between Crucians and Viejenses via Carnival and Calypso are explored. For the short film, Vieques Mano Arriba, I relied on annotations and complementary videos that expanded on the music mentioned in the short film, as you can see in the side-by-side comparisons of the videos listed. In the U.S. Virgin Islands and Puerto Rico Friendship Day tab, I also used a combination of writing and time-stamped annotations as seen before."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "661fe7b7-7d89-48d1-80a4-2df72b1c4121"
+    },
+    {
+      "start_time": 178,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, in the Conclusion tab, I provide a brief conclusion to my project and refer to my Bibliography tab, following the general format of a scholarly article. In the Index tab, the organization of my key terms, or tags, are listed. Here lies one of the strengths of AV Annotate."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bba09ec8-5a23-4885-a4a0-948fa347aebe"
+    },
+    {
+      "start_time": 198,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For example, let's assume I'm a student and I'm interested in learning only about Friendship Day and want to view all the audiovisual content that mentions it. By clicking the tag, as seen here, I am taken to all the instances where Friendship Day is tagged. Let's say that this video calls my attention."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f8408b35-de94-449a-950d-e7ff9c7bac63"
+    },
+    {
+      "start_time": 218,
+      "end_time": 227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can click on it to view it. This first annotation seems interesting. If I click on it, it will take me directly to the annotation's time-stamp."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "afb61696-ce36-4033-a0df-bc5dd86a5f1c"
+    },
+    {
+      "start_time": 248,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Completing this AV Annotate project was helpful in not only synthesizing and presenting my research, but also in conducting my research. Focusing on key terms, themes, and engaging with not only written material but also audiovisual material provided important information and context. Moreover, I see this project as one that is ongoing, one I hope to add additional material to and expand upon."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c8755b72-d516-446c-8d7a-de6c52e66c04"
+    },
+    {
+      "start_time": 271,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I hope this walkthrough was helpful. Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1fbb91cb-aa64-4982-b10a-6a02990850f8"
+    }
+  ],
   "set": "Default",
   "event_id": "f37b4dec-cbb9-4d79-8cda-9308aa5cc376",
   "source_id": "73356c84-2a78-444f-9b83-1a5ae39f7143"
