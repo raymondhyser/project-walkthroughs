@@ -1,5 +1,230 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi, my name is Jack Reardon and I'm a PhD student at the University of Texas at Austin in the Spanish and Portuguese department. My research focuses on contemporary Latin American cinema with the primary focus on post-Castro Cuban filmmaking after 2016. This is a quick show and tell of an AVAnnotate project called Auteurism."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "36895d6c-02ff-4910-94d2-cf9383e24475"
+    },
+    {
+      "start_time": 27,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The goal is to show what an AVAnnotate project can look like in practice. A mix of short scholarly writing, curated media, and time-coded annotations. If you read film criticism, you've probably run into the term Auteurism before."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "64097255-1136-4934-8b84-836d710172a9"
+    },
+    {
+      "start_time": 44,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The idea that some directors have such a consistent vision and stylistic signature that you can recognize their authorship across films. I built this project as an interactive way of learning the term. There's a brief essay on the history of Auteur theory and then a set of case studies where I use AVAnnotate to connect analysis to specific audiovisual moments."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d76edb4b-10cc-4e75-bf45-89bb0035eda9"
+    },
+    {
+      "start_time": 68,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the home page, you can jump into the essay here and into the three case studies also here. If you click on the theory, this page gives you a short history of Altura theory. Why people started asking whether the director can be considered the author of film and how that debate has developed over time."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7bd9b9fe-fd01-44fb-9cba-5491441a96df"
+    },
+    {
+      "start_time": 96,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I also frame Auteurism against a modern counterexample, the franchise production logic. So there's a section here that points to a video essay on the marbleization as a foil, the opposite I articulate of a cinema built around a singular authorial voice. Now here's a Stanley Kubrick's hub page."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "712f6320-6bd7-4a4a-9bb6-8bb85107019f"
+    },
+    {
+      "start_time": 129,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the model I'd recommend for a case study, a short interpretive overview image as visual anchors and then an index of a project materials at the bottom. This is the index, which is I believe the key. It's a map of what's inside the project, a custom page, an annotated interview event, a critical film review, and then a curated set of films."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "00a6fc55-0ff8-4719-a4d5-662774ff349a"
+    },
+    {
+      "start_time": 158,
+      "end_time": 179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For a viewer, it makes the site legible in around 10 seconds. I'm going to do two. This is the heart of an AV annotate project, a playable media paired with time-coded annotations."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b26d9992-4541-4d5d-baae-9c599d4dcf0e"
+    },
+    {
+      "start_time": 180,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the right, each segment is tied to a precise timestamp. In this particular event, the annotations are functioning primarily as transcript segments, but the platform still gives you structure and control to do whatever it is you want with it, and I highly recommend looking at other projects and how people have creatively used these annotations. With filter, you can narrow what you're seeing and you can separate who's speaking so the transcript isn't just a wall of text."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "febca629-b791-442e-b788-5256547d0c4e"
+    },
+    {
+      "start_time": 216,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For example, if you were curious about listening to Jeremy Bernstein speak during the transcript, you would be able to do that, and vice versa with the great Stanley Kubrick. If you were interested in moments that they spoke about chess, which is around the 23rd minute, you'd be able to watch that. That separation is small, but it's the difference between a transcript you can skim and a transcript you can actually work with."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5ba9624f-dbca-450b-8d8d-701cf8cd649b"
+    },
+    {
+      "start_time": 244,
+      "end_time": 265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the next feature I'd like to show is the custom pages. Here's an example of a short custom page that stays close to interpretation. I focus here on Stanley Kubrick's endings and how they often land on ambiguity rather than closure, and I use Dr. Strangelove as one anchor point."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "121290ef-c3be-4b39-b6af-e9f0fbd1be9c"
+    },
+    {
+      "start_time": 268,
+      "end_time": 301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The point isn't to overwhelm the viewer, it is to connect one small claim, is to connect one claim to a small, well-curated set of materials you can actually explore. The other case study works the same way. For Alea, who I reference for example, I'm interested in altruism as an identifiable move, including small format signatures like reoccurring animation or visual devices that become a recognizable stamp."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "44cf08d6-a5d5-45f6-a9d3-a2cf0b846db5"
+    },
+    {
+      "start_time": 301,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And here I have a very similar custom page about him and his work. I highly recommend reading. And then here on the left side, you have a search bar of all the materials that become part of the project."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bfd888a4-0c2a-41ac-8d35-2972f7ad4ba7"
+    },
+    {
+      "start_time": 319,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And yeah, here is the one where, as I was saying, there's two different, these are two separate films of his, The Death of a Bureaucrat and The Twelve Chairs, and I have hand-selected specific moments that if you see, show kind of his ingenuity with this cutout animation, which I believe is an identifiable feature that places him as an alter. If you are more curious and would also like to explore a little bit more about my other project, would be on my other case study, it's Wes Anderson and his aesthetic in Mise-en-ScÃ¨ne. So, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b00a6b43-d033-4385-bf4f-2c348c4c714f"
+    },
+    {
+      "start_time": 357,
+      "end_time": 362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much, and I hope you enjoy the project."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "644c2299-836d-4c9f-858b-f31ad5d534de"
+    }
+  ],
   "set": "Default",
   "event_id": "16547b6e-5cf0-42fd-9a04-1d167035cc72",
   "source_id": "4e7e868a-7deb-46c3-8586-c2970d4f6cf4"
