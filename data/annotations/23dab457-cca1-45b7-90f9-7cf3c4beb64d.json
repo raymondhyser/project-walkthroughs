@@ -1,5 +1,486 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi everyone, my name is Kara Alexandra Culp and today I'm presenting my project titled Memory, Education, and Discrimination, Life for Mexican American Children in 20th Century Austin. When you first open my project, this is the landing page you will arrive to. It has all of the different parts of the project right here and includes a brief description of what the project is about."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b1721076-f2e6-4812-88d6-7d8cd16479d0"
+    },
+    {
+      "start_time": 19,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is based on two oral histories from two brothers, Frank de Leon Jr. and Marcos de Leon. They grew up in Austin, Texas in the mid-20th century and the project analyzes the systematic discrimination the Mexican American community faced during this period through the lens of education, community, and of course specifically through the stories of these two brothers. So the first thing you're going to get to is the introduction."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "89d049c8-aff4-4075-b16d-b5c07b7c38e2"
+    },
+    {
+      "start_time": 41,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's the more in-depth explanation of what I just explained. It also includes a photo so you know who you're going to be exploring and listening to. And it also gives proper credit to where I got the oral histories from, which is the Travis County Archives, and the oral histories were conducted in partnership with the Voces Oral History Center at UT Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b232c146-da67-4754-bc0b-62f2cd89fedd"
+    },
+    {
+      "start_time": 63,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The second part right here is the guide to tags. So AV Notate uses tags to organize the annotations on the individual videos and I included guide to tags so it's easier to understand exactly where the annotations are that you might want to look at. So I have tag groupings here and I just explain what type of tags are located within the individual tag groupings."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "50593fcd-5b7e-471d-a18a-09d1a54c7f8a"
+    },
+    {
+      "start_time": 95,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like for example, the life of interviewee tag groupings include family life, religious beliefs, career, among other tags. So if that's the sort of thing you are interested in, you can know to look through this section of tags. Same thing for community and culture."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bea2a8d5-1434-4d3b-bbc6-4426bdcafb89"
+    },
+    {
+      "start_time": 112,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Language use, right? So if you're interested in studying language, you can go through the community and culture tags. Discrimination, of course. Education beyond Palm includes junior high, high school, and university experiences."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "16cfc348-504c-482c-8f8c-6395fd541358"
+    },
+    {
+      "start_time": 125,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Context and commentary is not what the interviewers were saying. This is additional context that I provided if they briefly mentioned something, a person, an event, a place that they don't discuss in detail so that the user, you, can then be able to be a little bit more informed about what exactly they were talking about. Places of the project, I think, is very useful, right? I love oral history."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "28224a8b-f75d-443d-8aae-6859dce95ea3"
+    },
+    {
+      "start_time": 150,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm in training to be a historian right now. But the thing with oral history is it's just someone talking, right? It's either a video or an audio recording of just someone talking. So you can't really see, you know, you can imagine, but you can't really see what they're talking about."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6f2a5cfe-2433-43f7-bdc4-9a536b5cc0df"
+    },
+    {
+      "start_time": 164,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I fixed that with places of the project. So these are photographs of the most prominent places that the brothers discuss in their oral histories. Of course, the Palm School, this is the elementary school that they attended."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7af05e1c-749b-4620-87e3-892ce9671419"
+    },
+    {
+      "start_time": 178,
+      "end_time": 194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I give proper credit to each photograph. I have an older photograph of when it was taken, when it was in use as a school. And then I have a current photograph of what the school looks though it is no longer in use as a school."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e60b36d6-4edd-4345-9cf8-d362896c8ab0"
+    },
+    {
+      "start_time": 194,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have some maps and photographs of what East Austin looks like. Palm Park, which was right next to Palm School. And then the most important ones, in my opinion, that show the biggest change are the photographs of the construction of I-35."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a9f3b1f1-aec0-4cb4-9087-e4dab79e91c7"
+    },
+    {
+      "start_time": 211,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So this is East Avenue. This was right next to Palm School. Palm School is located right on the edge of it."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "30bba091-f97d-437c-b3ef-c2822362827d"
+    },
+    {
+      "start_time": 216,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And right, getting to what we have today, the big construction of I-35 that we get to be stuck in traffic, you know, every time that we're on it, which is so lovely. So these are the photographs in the place of the project. And then I have the two oral histories themselves, right? I have Frank de Leon Jr.'s oral history."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "da6990f6-7153-4ae4-8dd1-1a737cbdc2dc"
+    },
+    {
+      "start_time": 239,
+      "end_time": 265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the filtering is where you get to see all the, quite frankly, enormous amount of tags that I provided for you to use. These are all to make it easier and useful for you. I made this specifically to be useful to either researchers who are looking at a specific topic or students at the university level who are also conducting research, but might be wanting to look at one specific thing."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ec507867-1cdc-4061-86b1-8969b9e25c17"
+    },
+    {
+      "start_time": 265,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So let's say someone is researching discrimination. So I can have them look at discrimination, language erasure, segregation, like let's say they're looking at specifically segregation that target Mexican-Americans. And then let's say we also want to look at language use and race and ethnicity."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1efa39bd-700f-44e2-b67f-e07428f0d1bd"
+    },
+    {
+      "start_time": 285,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Those are all paired together very nicely. So you close that. And then all of the times where it's discussed in the oral history pop up, right? So I can select that right here and it'll immediately take me to that point in the video."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f47ba885-8383-4a83-b29f-04f9eeb97b28"
+    },
+    {
+      "start_time": 300,
+      "end_time": 329,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So if you're looking for one specific thing, instead of watching this entire one hour and 15 minute oral history, which you should, right? But let's say your time, you can go and find this part specifically that you are looking for. And then the second one is the same thing, but it's Marcos de Leon. This oral history is significantly longer, right? Almost three hours long."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "588fec25-3402-40cd-96c5-701293430231"
+    },
+    {
+      "start_time": 329,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the same thing, Marcos de Leon was actually really involved in civil rights activism. So let's just say we want to look at all of the civil rights movement tags. And let's say we'll get some context tags to see if they explain anything to do with the civil rights movement."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "23e8953b-b50f-44bc-81b0-cd07d6899ae2"
+    },
+    {
+      "start_time": 344,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And look at here, we do have a context tag. So this kind of explains something that Marcos de Leon was talking about. Some history on segregation in public schools, right? I was always older than my classmates."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e4289d5a-c6ef-4b93-81d5-cc7ceb2a78aa"
+    },
+    {
+      "start_time": 360,
+      "end_time": 371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Going to school the first year, my limit is Spanish. There were a lot of Anglos still. So we have that."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ad955e5f-04a7-486e-8e6e-04b1923617b3"
+    },
+    {
+      "start_time": 371,
+      "end_time": 384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then we have the conclusion of the project. This just draws together everything that I personally analyzed. And some more explanation also has a photo of the two brothers together with photos of them when they were younger, which is very sweet."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ee077a5d-949f-460e-978b-657eb0055f42"
+    },
+    {
+      "start_time": 384,
+      "end_time": 393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then it has some information for citation purposes, if you would like to cite this. So I have my full name, Kara Alexandra Culp. I have where I am."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "affd546c-241c-4d5a-9d33-03fa3813b49b"
+    },
+    {
+      "start_time": 393,
+      "end_time": 403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have my email, if you would like to reach out to me for questions. And then I have when it was published again for citation information, should you want to use it. I have additional readings."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0d4d50b6-51e0-49b3-8c0c-5cbd462399e2"
+    },
+    {
+      "start_time": 403,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These, you know, again, historian and training, right? But could also be useful to you. Let's say you were interested in something that was discussed in the oral history briefly, you want to learn more. So I have a few books and a few articles that contain additional information with the publishing date, the author, and then a brief sentence or so about what is in the book, right? So you can learn a little bit more."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7bccbda1-2b81-40c9-a287-88c05b833407"
+    },
+    {
+      "start_time": 432,
+      "end_time": 446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then the same thing for the article. So let's say, look, environmental history, you want to learn more about environmental history. Then this book, Sitting in a Garden, Environmental Transformations and Racial Justice in 20th Century Austin, Texas, by Andrew M. Bush, published in 2018."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a8802147-420f-4359-9653-430054214477"
+    },
+    {
+      "start_time": 446,
+      "end_time": 468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The book is an urban history of Austin, Texas and contains several chapters on discriminatory housing practices, like highway construction, right? So getting back to that section on I-35. The final thing is the index. So this is where you can parse through the tags as well to see how many of each one there is, right? If you're looking for a specific topic."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e1678410-ae29-48c8-a3ce-18b417d9832f"
+    },
+    {
+      "start_time": 468,
+      "end_time": 492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you can see every time community is discussed in the oral histories, right? And scroll through them. Oh, look how much Marco Zelon talks about oral history, right? Sorry, community. And when you go to these, you can click on them, right, or hover over them, and it'll bring up that little section of the annotation where it is discussed."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6dfdcfe8-f8a4-4608-9f05-5fbb4af140fc"
+    },
+    {
+      "start_time": 492,
+      "end_time": 498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that is the entire project. I invite you to explore it on your own time. Thank you so much for watching this video."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5e0e24cb-dfea-45fa-a39f-9ed972cc981f"
+    },
+    {
+      "start_time": 498,
+      "end_time": 509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And again, my email is in the video. So if you'd like to reach out to me for any questions, I really, really enjoyed making this project. I would love to expand it more someday to include additional oral histories."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fbf0afb1-7261-4c14-8cef-d3a3dd8aa190"
+    },
+    {
+      "start_time": 509,
+      "end_time": 515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But as it stands now, I think it's a great resource. And I hope you enjoy it. Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2fd26e3f-6538-4ccb-b39f-0923dd7e6a0f"
+    }
+  ],
   "set": "Default",
   "event_id": "dadb4aa9-37c2-4ee4-a725-6ef504d47c64",
   "source_id": "e95258a5-9540-40e0-bf5f-fc184fe51155"
