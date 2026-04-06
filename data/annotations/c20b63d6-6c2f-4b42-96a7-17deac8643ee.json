@@ -1,5 +1,166 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi, my name is Eduardo Gorobets from the Department of Spanish and Portuguese at the University of Texas at Austin, and this is a quick walkthrough of an AV annotated project titled Escutando sobre povos indÃ­genas em portuguÃªs. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b74eeeeb-a46f-4c90-a084-035826622139"
+    },
+    {
+      "start_time": 19,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This project is an interactive website that brings together audio, storytelling, and archival materials to highlight Indigenous voices, histories, and ways of knowing. The goal is to create a space where users don't just read about Indigenous communities, but actively listen to them, engaging with their perspectives through curated sound and media."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "db84dc27-d21d-4073-a53b-711f23bf9ecc"
+    },
+    {
+      "start_time": 43,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the homepage, you can begin exploring the project through its main sections, which guide you into four videos about Indigenous peoples from Brazil. Each video presents a combination of written context and embedded audio, allowing you to move between interpretation and direct listening. One of the central features of the site is its emphasis on sound as primary source."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9290fed3-2b1d-41ce-9b03-c83d30cc9712"
+    },
+    {
+      "start_time": 71,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instead of treating audio as supplementary, the project places it at the center of the experience. As you navigate, you will encounter recordings, whether interviews, oral stories, or environmental soundscapes that are paired with brief explanatory texts, the annotations. These texts don't overwhelm or transcript the material."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5fb5e0e9-7ee9-493c-b26b-bc4db7126883"
+    },
+    {
+      "start_time": 96,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instead, they frame what you're hearing and provide just enough context to deepen your understanding. Each page functions almost like a small case study and as a lesson. You will find a focused topic at Indigenous people, a curated set of audio clips, and short commentary that connects those clips to broader cultural, historical, or political questions."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "34c72acf-9958-4719-9a12-8500b0689702"
+    },
+    {
+      "start_time": 123,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This structure encourages you to explore at your own pace, moving between listening and reading, rather than following a single linear argument. An important aspect of the site is how it foregrounds Indigenous presence and agency. So rather than speaking about Indigenous communities from the outside, the project prioritizes their voices and perspectives, making listening itself a key method of engagement."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "510c44a2-4518-4e8c-9f65-674d9e4fe7c1"
+    },
+    {
+      "start_time": 140,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So rather than speaking about Indigenous communities from the outside, the project prioritizes their voices and perspectives, making listening itself a key method of engagement."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7fadb82f-c76f-4f83-8f9a-796531193fd6"
+    },
+    {
+      "start_time": 152,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another key component of the project is the set of exercises designed for use both inside and outside the classroom by Portuguese instructors. These activities invite users to engage more actively with the materials by reflecting on what they hear, making connections across different recordings, and thinking critically about issues such as representation, voice, and listening as a practice beyond doing grammar exercises for a language class."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "177cae3c-6ceb-4a50-bef3-e76e35611858"
+    },
+    {
+      "start_time": 192,
+      "end_time": 210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The exercises can function as guided assignments for students, but they also are flexible enough for independent exploration, encouraging students to move beyond passive consumption and toward a more participatory and reflective experience with the content."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8b4edc76-4bd7-4055-ba9c-7bb3eb58fa04"
+    },
+    {
+      "start_time": 210,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So overall, Escutando sobre Povos IndÃ­genas in Portuguese works as an example of how digital platforms can support more immersive and ethical forms of storytelling. It combines media scholarship and design to create an experience that is both accessible and reflective, inviting users to slow down and listen carefully. So thank you, and I hope you enjoy the project."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3c8dd13d-45b2-4eaf-8fe4-085064ea9092"
+    }
+  ],
   "set": "Default",
   "event_id": "d55b6a77-ff88-4904-b198-dd5cde8dc963",
   "source_id": "b5e79629-4913-40a7-b962-7c092f8fd1cf"
